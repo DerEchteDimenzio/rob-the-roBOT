@@ -1,0 +1,23 @@
+{
+  "name": "rob-the-robot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerEchteDimenzio/rob-the-roBOT.git"
+  },
+  "author": "Dimenzio & Nintenix",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/DerEchteDimenzio/rob-the-roBOT/issues"
+  },
+  "homepage": "https://github.com/DerEchteDimenzio/rob-the-roBOT#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
